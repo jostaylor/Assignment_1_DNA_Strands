@@ -1,5 +1,10 @@
 # Assignment_1_Josh_Taylor
-First CPSC-350 assignment on DNA strings.
+
+Josh Taylor
+2317445
+jostaylor@chapman.edu
+CPSC 350-03
+Assignment 1 - First CPSC-350 assignment on DNA strings.
 
 Resources Utilized:
 http://www.cplusplus.com/doc/tutorial/files/
